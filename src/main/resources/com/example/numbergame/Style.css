@@ -1,0 +1,17 @@
+.root{
+
+    -fx-background:  #1f1b36;
+}
+.Button{
+   -fx-background-color :#1f1b36;
+   -fx-textfill:#8395f9;
+   -fx-border-color: #8395f9;
+   -fx-border-width: 2px;
+   -fx-padding: 5px,10px;
+
+   -fx-font-size: 16px;
+   -fx-font-family: "Arial";
+
+
+
+}
